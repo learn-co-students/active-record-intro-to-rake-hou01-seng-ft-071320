@@ -53,4 +53,3 @@ class Student
 
 end
 
-rake console
